@@ -1,0 +1,2 @@
+# learn_python_cainiao
+一个菜鸟试图以自己的能力学习Python，这是他失败的全过程
